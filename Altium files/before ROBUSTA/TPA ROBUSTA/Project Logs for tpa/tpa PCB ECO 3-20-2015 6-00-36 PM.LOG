@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Net10K_1 Pin=10K-1
+Removed Pin From Net: NetName=VCC Pin=10K-2
+Removed Pin From Net: NetName=GND Pin=Servo-1
+Removed Pin From Net: NetName=VCC Pin=Servo-2
+Removed Pin From Net: NetName=VCC Pin=Servo-4
+Removed Pin From Net: NetName=GND Pin=Servo-5
+Removed Pin From Net: NetName=GND Pin=TPA81-1
+Removed Pin From Net: NetName=VCC Pin=TPA81-2
+Removed Pin From Net: NetName=VCC Pin=TPA81-4
+Added Pin To Net: NetName=GND1 Pin=Servo-1
+Added Pin To Net: NetName=GND1 Pin=Servo-5
+Added Net: Name=GND1
+Added Pin To Net: NetName=VCC1 Pin=Servo-2
+Added Pin To Net: NetName=VCC1 Pin=Servo-4
+Added Net: Name=VCC1

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC Pin=t1-1
+Removed Pin From Net: NetName=VCC Pin=t2-1
+Removed Member From Class: ClassName=1 Member=C2
+Removed Member From Class: ClassName=1 Member=rest13
+Removed Member From Class: ClassName=1 Member=rest13
+Removed Member From Class: ClassName=1 Member=rest14
+Removed Member From Class: ClassName=1 Member=t1
+Removed Member From Class: ClassName=1 Member=t2
+Change Component Comment : Designator=rest1 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=rest3 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=rest5 Old Comment=100 New Comment=1k
+Change Component Comment : Designator=rest12 Old Comment=100 New Comment=1k
+Added Pin To Net: NetName=VCC Pin=rest1-1
+Added Pin To Net: NetName=VCC Pin=rest2-1
+Added Pin To Net: NetName=VCC Pin=rest3-1
+Added Pin To Net: NetName=VCC Pin=rest4-1
+Added Room: Name=1

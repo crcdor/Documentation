@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=ISP NewDesignator=ISP_S1
+Added Pin To Net: NetName=NetHeader.A_19 Pin=ISP_S1-1
+Added Pin To Net: NetName=NetHeader.A_20 Pin=ISP_S1-7
+Added Pin To Net: NetName=NetHeader.A_18 Pin=ISP_S1-9

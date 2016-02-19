@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=sw1 Old DesignItemId=Tac switch New DesignItemId=tactile
+Change Component Footprint: Designator=sw1 Old Footprint=MY_TACTILE-PTH New Footprint=tactile
+Change Component Comment : Designator=sw1 Old Comment=Tac switch New Comment=tactile
+Added Room: Name=start

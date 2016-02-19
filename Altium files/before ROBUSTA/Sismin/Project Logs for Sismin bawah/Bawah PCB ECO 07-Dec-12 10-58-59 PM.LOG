@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=NetEmergency_3 Pin=Header A-4
+Removed Pin From Net: NetName=NetHeader A_5 Pin=Header A-5
+Removed Pin From Net: NetName=NetHeader A_7 Pin=Header A-7
+Removed Pin From Net: NetName=GND Pin=Header A-9
+Removed Pin From Net: NetName=NetC_2 Pin=Header A-11
+Removed Pin From Net: NetName=NetC.res_2 Pin=Header A-13
+Removed Member From Class: ClassName=Bawah Member=Header A
+Removed Member From Class: ClassName=Bawah Member=Header A
+Added Component: Designator=DIP.SW(HDR1X4)
+Added Component: Designator=Header.A(HDR2X11_CEN)
+Added Pin To Net: NetName=NetHeader A_5 Pin=Header.A-5
+Added Pin To Net: NetName=NetHeader A_7 Pin=Header.A-6
+Added Pin To Net: NetName=GND Pin=Header.A-7
+Added Pin To Net: NetName=NetC_2 Pin=Header.A-8
+Added Pin To Net: NetName=NetC.res_2 Pin=Header.A-9
+Added Pin To Net: NetName=NetEmergency_3 Pin=Header.A-15
+Change Net Name : Old Net Name=NetHeader A_5 New Net Name=NetHeader.A_5
+Change Net Name : Old Net Name=NetHeader A_7 New Net Name=NetHeader.A_6
+Added Pin To Net: NetName=NetDIP.SW_1 Pin=DIP.SW-1
+Added Pin To Net: NetName=NetDIP.SW_1 Pin=Header.A-1
+Added Net: Name=NetDIP.SW_1
+Added Pin To Net: NetName=NetDIP.SW_2 Pin=DIP.SW-2
+Added Pin To Net: NetName=NetDIP.SW_2 Pin=Header.A-2
+Added Net: Name=NetDIP.SW_2
+Added Pin To Net: NetName=NetDIP.SW_3 Pin=DIP.SW-3
+Added Net: Name=NetDIP.SW_3
+Added Pin To Net: NetName=NetDIP.SW_4 Pin=DIP.SW-4
+Added Pin To Net: NetName=NetDIP.SW_4 Pin=Header.A-13
+Added Net: Name=NetDIP.SW_4
+Added Pin To Net: NetName=NetHeader.A_3 Pin=Header.A-3
+Added Pin To Net: NetName=NetHeader.A_3 Pin=Kipas-3
+Added Net: Name=NetHeader.A_3
+Added Pin To Net: NetName=NetHeader.A_4 Pin=Header.A-4
+Added Pin To Net: NetName=NetHeader.A_4 Pin=Sound-3
+Added Net: Name=NetHeader.A_4
+Added Pin To Net: NetName=NetHeader.A_10 Pin=Header.A-10
+Added Pin To Net: NetName=NetHeader.A_10 Pin=INT7-3
+Added Net: Name=NetHeader.A_10
+Added Pin To Net: NetName=NetHeader.A_11 Pin=Header.A-11
+Added Pin To Net: NetName=NetHeader.A_11 Pin=UVTron-3
+Added Net: Name=NetHeader.A_11
+Added Pin To Net: NetName=NetHeader.A_12 Pin=Header.A-12
+Added Net: Name=NetHeader.A_12
+Added Pin To Net: NetName=NetHeader.A_14 Pin=Header.A-14
+Added Pin To Net: NetName=NetHeader.A_14 Pin=PD7-3
+Added Net: Name=NetHeader.A_14
+Added Pin To Net: NetName=NetHeader.A_16 Pin=Header.A-16
+Added Pin To Net: NetName=NetHeader.A_16 Pin=USART0-2
+Added Net: Name=NetHeader.A_16
+Added Pin To Net: NetName=NetHeader.A_17 Pin=Header.A-17
+Added Pin To Net: NetName=NetHeader.A_17 Pin=USART0-3
+Added Net: Name=NetHeader.A_17
+Added Pin To Net: NetName=NetHeader.A_18 Pin=Header.A-18
+Added Net: Name=NetHeader.A_18
+Added Pin To Net: NetName=NetHeader.A_19 Pin=Header.A-19
+Added Net: Name=NetHeader.A_19
+Added Pin To Net: NetName=NetHeader.A_20 Pin=Header.A-20
+Added Net: Name=NetHeader.A_20
+Added Pin To Net: NetName=NetHeader.A_21 Pin=Header.A-21
+Added Pin To Net: NetName=NetHeader.A_21 Pin=OCR3B-3
+Added Net: Name=NetHeader.A_21
+Added Pin To Net: NetName=NetHeader.A_22 Pin=Header.A-22
+Added Pin To Net: NetName=NetHeader.A_22 Pin=OCR3A-3
+Added Net: Name=NetHeader.A_22
+Added Member To Class: ClassName=Bawah Member=Component DIP.SW Header 4
+Added Member To Class: ClassName=Bawah Member=Component Header.A Header 11X2A

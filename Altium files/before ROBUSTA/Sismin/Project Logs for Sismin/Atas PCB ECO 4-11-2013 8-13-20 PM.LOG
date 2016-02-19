@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Net22pF1_1 Pin=22pF-1
+Removed Pin From Net: NetName=Net22pF_2 Pin=22pF-2
+Change Component Footprint: Designator=22pF Old Footprint=CAPC2012L New Footprint=RAD-0.3
+Change Component Designator: OldDesignator=22pF NewDesignator=22pF1
+Added Component: Designator=22pF(RAD-0.3)
+Added Pin To Net: NetName=Net22pF1_2 Pin=22pF1-2
+Added Pin To Net: NetName=Net22pF1_1 Pin=22pF-1
+Added Pin To Net: NetName=Net22pF_2 Pin=22pF-2
+Added Member To Class: ClassName=Atas Member=Component 22pF1 Cap

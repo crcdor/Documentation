@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=10K NewDesignator=10K,
+Added Component: Designator=10K(AXIAL-0.3)
+Added Pin To Net: NetName=Net10K,_1 Pin=10K,-1
+Added Pin To Net: NetName=VCC Pin=10K,-2
+Added Pin To Net: NetName=Net10K_1 Pin=10K-1
+Added Pin To Net: NetName=VCC Pin=10K-2
+Added Member To Class: ClassName=tpa Member=Component 10K, Res1
+Added Room: Name=tpa

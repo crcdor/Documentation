@@ -1,0 +1,37 @@
+Change Component DesignItemId : Designator=TPA81 Old DesignItemId= New DesignItemId=Header 9
+Change Component Description : Designator=TPA81 Old Description= New Description=Header, 9-Pin
+Change Component Library : Designator=TPA81 Old Library= New Library=Miscellaneous Connectors.IntLib
+Added Component: Designator=10K,(AXIAL-0.3)
+Added Component: Designator=10K(AXIAL-0.3)
+Added Component: Designator=330(AXIAL-0.3)
+Added Component: Designator=Led(LED-1)
+Added Component: Designator=P?(HDR1X4)
+Added Component: Designator=Power Servo(HDR1X2)
+Added Component: Designator=to_ServoDriver(HDR1X3)
+Added Pin To Net: NetName=Net10K,_1 Pin=10K,-1
+Added Pin To Net: NetName=Net10K,_1 Pin=P?-3
+Added Net: Name=Net10K,_1
+Added Pin To Net: NetName=Net10K,_2 Pin=10K,-2
+Added Pin To Net: NetName=Net10K,_2 Pin=10K-2
+Added Pin To Net: NetName=Net10K,_2 Pin=330-2
+Added Pin To Net: NetName=Net10K,_2 Pin=P?-2
+Added Net: Name=Net10K,_2
+Added Pin To Net: NetName=Net10K_1 Pin=10K-1
+Added Pin To Net: NetName=Net10K_1 Pin=P?-4
+Added Net: Name=Net10K_1
+Added Pin To Net: NetName=Net330_1 Pin=330-1
+Added Pin To Net: NetName=Net330_1 Pin=Led-1
+Added Net: Name=Net330_1
+Added Pin To Net: NetName=NetLed_2 Pin=Led-2
+Added Pin To Net: NetName=NetLed_2 Pin=P?-1
+Added Net: Name=NetLed_2
+Added Pin To Net: NetName=NetPower Servo_1 Pin=Power Servo-1
+Added Pin To Net: NetName=NetPower Servo_1 Pin=to_ServoDriver-3
+Added Net: Name=NetPower Servo_1
+Added Pin To Net: NetName=NetPower Servo_2 Pin=Power Servo-2
+Added Pin To Net: NetName=NetPower Servo_2 Pin=to_ServoDriver-2
+Added Net: Name=NetPower Servo_2
+Added Pin To Net: NetName=Netto_ServoDriver_1 Pin=to_ServoDriver-1
+Added Net: Name=Netto_ServoDriver_1
+Added Class: Name=TPA2
+Added Room: Name=TPA2

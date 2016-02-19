@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=TPA2 Member=Power Servo
+Removed Member From Class: ClassName=TPA2 Member=ServoDriver
+Change Component Footprint: Designator=Led Old Footprint=BAT-2 New Footprint=LED-1
+Added Component: Designator=Servo(HDR1X5)
+Added Pin To Net: NetName=NetServo_1 Pin=Servo-1
+Added Pin To Net: NetName=NetServo_1 Pin=Servo-3
+Added Net: Name=NetServo_1
+Added Pin To Net: NetName=NetServo_2 Pin=Servo-2
+Added Pin To Net: NetName=NetServo_2 Pin=Servo-4
+Added Net: Name=NetServo_2
+Added Pin To Net: NetName=NetServo_5 Pin=Servo-5
+Added Pin To Net: NetName=NetServo_5 Pin=TPA81-3
+Added Net: Name=NetServo_5
+Added Member To Class: ClassName=TPA2 Member=Component Servo Header 5
+Added Room: Name=TPA2

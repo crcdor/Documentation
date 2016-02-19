@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VCC Pin=rest1-1
+Added Pin To Net: NetName=VCC Pin=rest2-1
+Added Pin To Net: NetName=VCC Pin=rest3-1
+Added Pin To Net: NetName=VCC Pin=rest4-1
+Added Room: Name=1

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetP1_2 Pin=S1-1
+Removed Pin From Net: NetName=NetP1_1 Pin=S1-2
+Removed Pin From Net: NetName=NetP4_2 Pin=S2-1
+Removed Pin From Net: NetName=NetP4_1 Pin=S2-2
+Removed Member From Class: ClassName=start Member=S1
+Removed Member From Class: ClassName=start Member=S2
+Change Component Comment : Designator=C1 Old Comment=MIC New Comment=Cap
+Added Component: Designator=sw1(MY_TACTILE-PTH)
+Added Component: Designator=sw2(MY_TACTILE-PTH)
+Added Pin To Net: NetName=NetP1_1 Pin=sw1-1
+Added Pin To Net: NetName=NetP1_1 Pin=sw1-1
+Added Pin To Net: NetName=NetP1_2 Pin=sw1-2
+Added Pin To Net: NetName=NetP1_2 Pin=sw1-2
+Added Pin To Net: NetName=NetP4_1 Pin=sw2-1
+Added Pin To Net: NetName=NetP4_1 Pin=sw2-1
+Added Pin To Net: NetName=NetP4_2 Pin=sw2-2
+Added Pin To Net: NetName=NetP4_2 Pin=sw2-2
+Added Member To Class: ClassName=start Member=Component sw1 Tac switch
+Added Member To Class: ClassName=start Member=Component sw2 Tac switch
+Added Room: Name=start

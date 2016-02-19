@@ -1,0 +1,69 @@
+Added Component: Designator=Header.A(HDR2X10_CEN)
+Added Component: Designator=Header.B(HDR2X11_CEN)
+Added Pin To Net: NetName=NetHeader.A_1 Pin=Header.A-1
+Added Pin To Net: NetName=NetHeader.A_2 Pin=Header.A-2
+Added Pin To Net: NetName=NetHeader.A_3 Pin=Header.A-3
+Added Pin To Net: NetName=NetHeader.A_4 Pin=Header.A-4
+Added Pin To Net: NetName=NetHeader.A_5 Pin=Header.A-5
+Added Pin To Net: NetName=NetHeader.A_6 Pin=Header.A-6
+Added Pin To Net: NetName=NetHeader.A_7 Pin=Header.A-7
+Added Pin To Net: NetName=NetHeader.A_8 Pin=Header.A-8
+Added Pin To Net: NetName=NetHeader.A_9 Pin=Header.A-9
+Added Pin To Net: NetName=NetHeader.A_10 Pin=Header.A-10
+Added Pin To Net: NetName=NetHeader.A_11 Pin=Header.A-11
+Added Pin To Net: NetName=NetHeader.A_12 Pin=Header.A-12
+Added Pin To Net: NetName=NetHeader.A_13 Pin=Header.A-13
+Added Pin To Net: NetName=NetHeader.A_14 Pin=Header.A-14
+Added Pin To Net: NetName=NetHeader.A_15 Pin=Header.A-15
+Added Pin To Net: NetName=NetHeader.A_16 Pin=Header.A-16
+Added Pin To Net: NetName=NetHeader.A_17 Pin=Header.A-17
+Added Pin To Net: NetName=NetHeader.A_18 Pin=Header.A-18
+Added Pin To Net: NetName=NetHeader.A_19 Pin=Header.A-19
+Added Pin To Net: NetName=NetHeader.A_20 Pin=Header.A-20
+Added Pin To Net: NetName=NetHeader.B_1 Pin=Header.B-1
+Added Net: Name=NetHeader.B_1
+Added Pin To Net: NetName=NetHeader.B_2 Pin=Header.B-2
+Added Net: Name=NetHeader.B_2
+Added Pin To Net: NetName=NetHeader.B_3 Pin=Header.B-3
+Added Net: Name=NetHeader.B_3
+Added Pin To Net: NetName=NetHeader.B_4 Pin=Header.B-4
+Added Net: Name=NetHeader.B_4
+Added Pin To Net: NetName=NetHeader.B_5 Pin=Header.B-5
+Added Net: Name=NetHeader.B_5
+Added Pin To Net: NetName=NetHeader.B_6 Pin=Header.B-6
+Added Net: Name=NetHeader.B_6
+Added Pin To Net: NetName=NetHeader.B_7 Pin=Header.B-7
+Added Net: Name=NetHeader.B_7
+Added Pin To Net: NetName=NetHeader.B_8 Pin=Header.B-8
+Added Net: Name=NetHeader.B_8
+Added Pin To Net: NetName=NetHeader.B_9 Pin=Header.B-9
+Added Net: Name=NetHeader.B_9
+Added Pin To Net: NetName=NetHeader.B_10 Pin=Header.B-10
+Added Net: Name=NetHeader.B_10
+Added Pin To Net: NetName=NetHeader.B_11 Pin=Header.B-11
+Added Net: Name=NetHeader.B_11
+Added Pin To Net: NetName=NetHeader.B_12 Pin=Header.B-12
+Added Net: Name=NetHeader.B_12
+Added Pin To Net: NetName=NetHeader.B_13 Pin=Header.B-13
+Added Net: Name=NetHeader.B_13
+Added Pin To Net: NetName=NetHeader.B_14 Pin=Header.B-14
+Added Net: Name=NetHeader.B_14
+Added Pin To Net: NetName=NetHeader.B_15 Pin=Header.B-15
+Added Net: Name=NetHeader.B_15
+Added Pin To Net: NetName=NetHeader.B_16 Pin=Header.B-16
+Added Net: Name=NetHeader.B_16
+Added Pin To Net: NetName=NetHeader.B_17 Pin=Header.B-17
+Added Net: Name=NetHeader.B_17
+Added Pin To Net: NetName=NetHeader.B_18 Pin=Header.B-18
+Added Net: Name=NetHeader.B_18
+Added Pin To Net: NetName=NetHeader.B_19 Pin=Header.B-19
+Added Net: Name=NetHeader.B_19
+Added Pin To Net: NetName=NetHeader.B_20 Pin=Header.B-20
+Added Net: Name=NetHeader.B_20
+Added Pin To Net: NetName=NetHeader.B_21 Pin=Header.B-21
+Added Net: Name=NetHeader.B_21
+Added Pin To Net: NetName=NetHeader.B_22 Pin=Header.B-22
+Added Net: Name=NetHeader.B_22
+Added Member To Class: ClassName=Atas Member=Component Header.A Header 10X2A
+Added Member To Class: ClassName=Atas Member=Component Header.B Header 11X2A
+Added Room: Name=Atas

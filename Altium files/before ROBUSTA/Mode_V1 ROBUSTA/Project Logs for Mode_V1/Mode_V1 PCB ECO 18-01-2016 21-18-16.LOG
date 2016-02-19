@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Member From Class: ClassName=Mode_V1 Member=P1
+Change Component Comment : Designator=P2 Old Comment=Us_SSC New Comment=Usart SSC
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Net: Name=NetS1_1
+Added Pin To Net: NetName=NetS1_3 Pin=S1-3
+Added Net: Name=NetS1_3

@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P-1
+Removed Pin From Net: NetName=VCC Pin=P-2
+Removed Pin From Net: NetName=VCC Pin=Rp6-1
+Removed Member From Class: ClassName=line abu2 Member=P6
+Removed Member From Class: ClassName=line abu2 Member=P
+Removed Member From Class: ClassName=line abu2 Member=Rp6
+Added Component: Designator=D5(My_LED3MM)
+Added Component: Designator=Header 7(HDR1X7H)
+Added Component: Designator=R5(My_axial-0.4)
+Added Pin To Net: NetName=GND Pin=D5-K
+Added Pin To Net: NetName=GND Pin=Header 7-1
+Added Pin To Net: NetName=VCC Pin=Header 7-2
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R5-2
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetHeader 7_3 Pin=Header 7-3
+Added Pin To Net: NetName=NetHeader 7_3 Pin=P1-2
+Added Pin To Net: NetName=NetHeader 7_3 Pin=Rp1-2
+Added Net: Name=NetHeader 7_3
+Added Pin To Net: NetName=NetHeader 7_4 Pin=Header 7-4
+Added Pin To Net: NetName=NetHeader 7_4 Pin=P2-2
+Added Pin To Net: NetName=NetHeader 7_4 Pin=Rp2-2
+Added Net: Name=NetHeader 7_4
+Added Pin To Net: NetName=NetHeader 7_5 Pin=Header 7-5
+Added Pin To Net: NetName=NetHeader 7_5 Pin=P3-2
+Added Pin To Net: NetName=NetHeader 7_5 Pin=Rp3-2
+Added Net: Name=NetHeader 7_5
+Added Pin To Net: NetName=NetHeader 7_6 Pin=Header 7-6
+Added Pin To Net: NetName=NetHeader 7_6 Pin=P4-2
+Added Pin To Net: NetName=NetHeader 7_6 Pin=Rp4-2
+Added Net: Name=NetHeader 7_6
+Added Pin To Net: NetName=NetHeader 7_7 Pin=Header 7-7
+Added Pin To Net: NetName=NetHeader 7_7 Pin=P5-2
+Added Pin To Net: NetName=NetHeader 7_7 Pin=Rp5-2
+Added Net: Name=NetHeader 7_7
+Added Member To Class: ClassName=line abu2 Member=Component D5 LED
+Added Member To Class: ClassName=line abu2 Member=Component Header 7 Header 7H
+Added Member To Class: ClassName=line abu2 Member=Component R5 1k
+Added Room: Name=line abu2

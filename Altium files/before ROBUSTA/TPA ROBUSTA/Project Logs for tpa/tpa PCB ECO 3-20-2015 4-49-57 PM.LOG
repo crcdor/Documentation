@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=tpa Member=Led
+Removed Member From Class: ClassName=tpa Member=Led
+Removed Member From Class: ClassName=tpa Member=Led
+Added Component: Designator=D1(My_LED3MM)
+Added Pin To Net: NetName=Net330_1 Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-K

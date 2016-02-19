@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetHeader.A_22 Pin=OCR3A-3
+Removed Pin From Net: NetName=NetHeader.A_21 Pin=OCR3B-3
+Removed Pin From Net: NetName=NetC.res_2 Pin=R.res2-2
+Removed Pin From Net: NetName=NetHeader.A_16 Pin=USART0-2
+Removed Pin From Net: NetName=NetHeader.A_17 Pin=USART0-3
+Change Component Footprint: Designator=C.res Old Footprint=CAPC3225L New Footprint=RAD-0.3
+Change Component Footprint: Designator=C Old Footprint=CAPC3225L New Footprint=RAD-0.3
+Change Component Footprint: Designator=Led.ISP Old Footprint=DSO-C2/D5.6 New Footprint=LED-1
+Change Component Footprint: Designator=Led.Pow Old Footprint=DSO-C2/D5.6 New Footprint=LED-1
+Change Component Footprint: Designator=L Old Footprint=INDC3216AL New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=S1 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=R.ISP Old Footprint=RESC3225L New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R.LCD Old Footprint=RESC3225L New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R.Pow Old Footprint=RESC3225L New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R.res1 Old Footprint=RESC3225L New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R.SCL Old Footprint=RESC3225L New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R.SDA Old Footprint=RESC3225L New Footprint=AXIAL-0.4
+Change Component Designator: OldDesignator=OCR3A NewDesignator=OCR1A
+Change Component Designator: OldDesignator=OCR3B NewDesignator=OCR1B
+Added Pin To Net: NetName=NetHeader.A_17 Pin=OCR1A-3
+Added Pin To Net: NetName=NetHeader.A_16 Pin=OCR1B-3
+Added Pin To Net: NetName=NetC.res_2 Pin=S1-2
+Added Pin To Net: NetName=NetHeader.A_21 Pin=USART0-2
+Added Pin To Net: NetName=NetHeader.A_22 Pin=USART0-3

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VCC Pin=rest1-1
+Removed Pin From Net: NetName=VCC Pin=rest2-1
+Removed Pin From Net: NetName=VCC Pin=rest3-1
+Removed Pin From Net: NetName=VCC Pin=rest4-1
+Change Component Comment : Designator=rest2 Old Comment=1k New Comment=100
+Change Component Comment : Designator=rest4 Old Comment=1k New Comment=100
+Added Component: Designator=C2(HDR1X2)
+Change Net Name : Old Net Name=Netc1_3 New Net Name=NetC1_4
+Change Net Name : Old Net Name=Netc1_4 New Net Name=NetC1_7
+Change Net Name : Old Net Name=Netc1_5 New Net Name=NetC1_3
+Change Net Name : Old Net Name=Netc1_6 New Net Name=NetC1_8
+Change Net Name : Old Net Name=Netc1_7 New Net Name=NetC1_5
+Change Net Name : Old Net Name=NetC1_8 New Net Name=NetC1_6
+Added Pin To Net: NetName=VCC1 Pin=rest2-1
+Added Pin To Net: NetName=VCC1 Pin=rest4-1
+Added Net: Name=VCC1
+Added Pin To Net: NetName=VCC2 Pin=C2-1
+Added Net: Name=VCC2
+Added Pin To Net: NetName=VCC3 Pin=C2-2
+Added Pin To Net: NetName=VCC3 Pin=rest1-1
+Added Pin To Net: NetName=VCC3 Pin=rest3-1
+Added Net: Name=VCC3
+Added Member To Class: ClassName=1 Member=Component C2 Header 2
+Added Room: Name=1

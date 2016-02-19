@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetHeader A_6 Pin=U1-2
+Removed Pin From Net: NetName=NetHeader A_8 Pin=U1-3
+Removed Pin From Net: NetName=NetHeader A_10 Pin=U1-5
+Removed Pin From Net: NetName=NetHeader A_12 Pin=U1-6
+Removed Pin From Net: NetName=NetHeader A_18 Pin=U1-22
+Removed Pin From Net: NetName=NetHeader.B_19 Pin=U1-53
+Removed Pin From Net: NetName=NetHeader.B_20 Pin=U1-54
+Removed Pin From Net: NetName=NetHeader.B_21 Pin=U1-55
+Removed Pin From Net: NetName=NetHeader.B_22 Pin=U1-57
+Removed Pin From Net: NetName=NetHeader.B_12 Pin=U1-93
+Removed Pin From Net: NetName=NetHeader.B_13 Pin=U1-94
+Removed Pin From Net: NetName=NetHeader.B_14 Pin=U1-95
+Removed Pin From Net: NetName=NetHeader.B_16 Pin=U1-97
+Removed Pin From Net: NetName=NetHeader.B_17 Pin=U1-98
+Removed Pin From Net: NetName=NetHeader.B_18 Pin=U1-100
+Change Component Footprint: Designator=22pF1 Old Footprint=CAPC2012L New Footprint=RAD-0.3
+Change Component Footprint: Designator=22pF Old Footprint=CAPC2012L New Footprint=RAD-0.3
+Added Pin To Net: NetName=NetHeader A_8 Pin=U1-2
+Added Pin To Net: NetName=NetHeader A_6 Pin=U1-3
+Added Pin To Net: NetName=NetHeader A_18 Pin=U1-5
+Added Pin To Net: NetName=NetHeader A_12 Pin=U1-21
+Added Pin To Net: NetName=NetHeader A_10 Pin=U1-22
+Added Pin To Net: NetName=NetHeader.B_22 Pin=U1-53
+Added Pin To Net: NetName=NetHeader.B_21 Pin=U1-54
+Added Pin To Net: NetName=NetHeader.B_20 Pin=U1-55
+Added Pin To Net: NetName=NetHeader.B_19 Pin=U1-57
+Added Pin To Net: NetName=NetHeader.B_18 Pin=U1-93
+Added Pin To Net: NetName=NetHeader.B_17 Pin=U1-94
+Added Pin To Net: NetName=NetHeader.B_16 Pin=U1-95
+Added Pin To Net: NetName=NetHeader.B_14 Pin=U1-97
+Added Pin To Net: NetName=NetHeader.B_13 Pin=U1-98
+Added Pin To Net: NetName=NetHeader.B_12 Pin=U1-100
+Added Pin To Net: NetName=NetU1_6 Pin=U1-6
+Added Net: Name=NetU1_6
+Added Room: Name=Atas

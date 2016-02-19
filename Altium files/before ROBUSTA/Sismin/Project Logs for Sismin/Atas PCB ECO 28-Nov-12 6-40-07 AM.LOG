@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=NetHeader.A_8 Pin=Header.A-8
+Removed Member From Class: ClassName=Atas Member=Header.A
+Removed Member From Class: ClassName=Atas Member=Header.A
+Removed Member From Class: ClassName=Atas Member=Header.A
+Change Component Footprint: Designator=U1 Old Footprint=100A_N New Footprint=100A_M
+Added Component: Designator=22pF1(RAD-0.3)
+Added Component: Designator=22pF(RAD-0.3)
+Added Component: Designator=Header A(HDR2X9)
+Added Component: Designator=kristal(BCY-W2/D3.1)
+Added Pin To Net: NetName=NetHeader.A_8 Pin=Header A-11
+Change Net Name : Old Net Name=NetHeader.A_8 New Net Name=NetHeader A_11
+Added Pin To Net: NetName=Net22pF1_1 Pin=22pF1-1
+Added Pin To Net: NetName=Net22pF1_1 Pin=22pF-1
+Added Pin To Net: NetName=Net22pF1_1 Pin=Header A-9
+Added Pin To Net: NetName=Net22pF1_1 Pin=U1-11
+Added Pin To Net: NetName=Net22pF1_1 Pin=U1-32
+Added Pin To Net: NetName=Net22pF1_1 Pin=U1-62
+Added Pin To Net: NetName=Net22pF1_1 Pin=U1-81
+Added Pin To Net: NetName=Net22pF1_1 Pin=U1-99
+Added Net: Name=Net22pF1_1
+Added Pin To Net: NetName=Net22pF1_2 Pin=22pF1-2
+Added Pin To Net: NetName=Net22pF1_2 Pin=kristal-2
+Added Pin To Net: NetName=Net22pF1_2 Pin=U1-34
+Added Net: Name=Net22pF1_2
+Added Pin To Net: NetName=Net22pF_2 Pin=22pF-2
+Added Pin To Net: NetName=Net22pF_2 Pin=kristal-1
+Added Pin To Net: NetName=Net22pF_2 Pin=U1-33
+Added Net: Name=Net22pF_2
+Added Pin To Net: NetName=NetHeader A_1 Pin=Header A-1
+Added Pin To Net: NetName=NetHeader A_1 Pin=U1-48
+Added Net: Name=NetHeader A_1
+Added Pin To Net: NetName=NetHeader A_2 Pin=Header A-2
+Added Pin To Net: NetName=NetHeader A_2 Pin=U1-49
+Added Net: Name=NetHeader A_2
+Added Pin To Net: NetName=NetHeader A_3 Pin=Header A-3
+Added Pin To Net: NetName=NetHeader A_3 Pin=U1-47
+Added Net: Name=NetHeader A_3
+Added Pin To Net: NetName=NetHeader A_4 Pin=Header A-4
+Added Pin To Net: NetName=NetHeader A_4 Pin=U1-50
+Added Net: Name=NetHeader A_4
+Added Pin To Net: NetName=NetHeader A_5 Pin=Header A-5
+Added Pin To Net: NetName=NetHeader A_5 Pin=U1-44
+Added Net: Name=NetHeader A_5
+Added Pin To Net: NetName=NetHeader A_6 Pin=Header A-6
+Added Pin To Net: NetName=NetHeader A_6 Pin=U1-2
+Added Net: Name=NetHeader A_6
+Added Pin To Net: NetName=NetHeader A_7 Pin=Header A-7
+Added Pin To Net: NetName=NetHeader A_7 Pin=U1-43
+Added Net: Name=NetHeader A_7
+Added Pin To Net: NetName=NetHeader A_8 Pin=Header A-8
+Added Pin To Net: NetName=NetHeader A_8 Pin=U1-3
+Added Net: Name=NetHeader A_8
+Added Pin To Net: NetName=NetHeader A_10 Pin=Header A-10
+Added Pin To Net: NetName=NetHeader A_10 Pin=U1-5
+Added Net: Name=NetHeader A_10
+Added Pin To Net: NetName=NetHeader A_12 Pin=Header A-12
+Added Pin To Net: NetName=NetHeader A_12 Pin=U1-6
+Added Net: Name=NetHeader A_12
+Added Pin To Net: NetName=NetHeader A_13 Pin=Header A-13
+Added Pin To Net: NetName=NetHeader A_13 Pin=U1-30
+Added Net: Name=NetHeader A_13
+Added Pin To Net: NetName=NetHeader A_14 Pin=Header A-14
+Added Pin To Net: NetName=NetHeader A_14 Pin=U1-20
+Added Net: Name=NetHeader A_14
+Added Pin To Net: NetName=NetHeader A_15 Pin=Header A-15
+Added Pin To Net: NetName=NetHeader A_15 Pin=U1-26
+Added Net: Name=NetHeader A_15
+Added Pin To Net: NetName=NetHeader A_16 Pin=Header A-16
+Added Pin To Net: NetName=NetHeader A_16 Pin=U1-21
+Added Net: Name=NetHeader A_16
+Added Pin To Net: NetName=NetHeader A_17 Pin=Header A-17
+Added Pin To Net: NetName=NetHeader A_17 Pin=U1-25
+Added Net: Name=NetHeader A_17
+Added Pin To Net: NetName=NetHeader A_18 Pin=Header A-18
+Added Pin To Net: NetName=NetHeader A_18 Pin=U1-22
+Added Net: Name=NetHeader A_18
+Added Member To Class: ClassName=Atas Member=Component 22pF1 Cap
+Added Member To Class: ClassName=Atas Member=Component 22pF Cap
+Added Member To Class: ClassName=Atas Member=Component Header A Header 9X2
+Added Member To Class: ClassName=Atas Member=Component kristal XTAL
+Added Room: Name=Atas

@@ -1,0 +1,33 @@
+Added Component: Designator=330(AXIAL-0.3)
+Added Component: Designator=D1(My_LED3MM)
+Added Component: Designator=mikon(HDR1X4)
+Added Component: Designator=Servo(HDR1X5)
+Added Component: Designator=TPA81(HDR1X9)
+Added Pin To Net: NetName=GND1 Pin=D1-K
+Added Pin To Net: NetName=GND1 Pin=Servo-1
+Added Pin To Net: NetName=GND1 Pin=Servo-5
+Added Net: Name=GND1
+Added Pin To Net: NetName=GND Pin=mikon-1
+Added Pin To Net: NetName=GND Pin=TPA81-5
+Added Net: Name=GND
+Added Pin To Net: NetName=Net330_1 Pin=330-1
+Added Pin To Net: NetName=Net330_1 Pin=D1-A
+Added Net: Name=Net330_1
+Added Pin To Net: NetName=Netmikon_3 Pin=mikon-3
+Added Pin To Net: NetName=Netmikon_3 Pin=TPA81-7
+Added Net: Name=Netmikon_3
+Added Pin To Net: NetName=Netmikon_4 Pin=mikon-4
+Added Pin To Net: NetName=Netmikon_4 Pin=TPA81-8
+Added Net: Name=Netmikon_4
+Added Pin To Net: NetName=NetServo_3 Pin=Servo-3
+Added Pin To Net: NetName=NetServo_3 Pin=TPA81-3
+Added Net: Name=NetServo_3
+Added Pin To Net: NetName=VCC1 Pin=330-2
+Added Pin To Net: NetName=VCC1 Pin=Servo-2
+Added Pin To Net: NetName=VCC1 Pin=Servo-4
+Added Net: Name=VCC1
+Added Pin To Net: NetName=VCC Pin=mikon-2
+Added Pin To Net: NetName=VCC Pin=TPA81-9
+Added Net: Name=VCC
+Added Class: Name=tpa
+Added Room: Name=tpa

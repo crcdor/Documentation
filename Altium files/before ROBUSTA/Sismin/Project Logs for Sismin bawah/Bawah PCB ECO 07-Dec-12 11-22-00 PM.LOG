@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetHeader.B_19 Pin=LCD-11
+Removed Pin From Net: NetName=NetHeader.B_11 Pin=LCD-12
+Removed Pin From Net: NetName=NetHeader.B_10 Pin=LCD-13
+Removed Pin From Net: NetName=NetHeader.B_9 Pin=LCD-14
+Removed Pin From Net: NetName=GND Pin=LCD-16
+Change Component DesignItemId : Designator=LCD Old DesignItemId=Header 16 New DesignItemId=Header 12
+Change Component Comment : Designator=LCD Old Comment=Header 16 New Comment=Header 12
+Change Component Description : Designator=LCD Old Description=Header, 16-Pin New Description=Header, 12-Pin
+Added Pin To Net: NetName=NetHeader.B_19 Pin=LCD-7
+Added Pin To Net: NetName=NetHeader.B_11 Pin=LCD-8
+Added Pin To Net: NetName=NetHeader.B_10 Pin=LCD-9
+Added Pin To Net: NetName=NetHeader.B_9 Pin=LCD-10
+Added Pin To Net: NetName=GND Pin=LCD-12
+Added Pin To Net: NetName=NetLCD_11 Pin=LCD-11
+Added Pin To Net: NetName=NetLCD_11 Pin=R.LCD-1
+Added Net: Name=NetLCD_11

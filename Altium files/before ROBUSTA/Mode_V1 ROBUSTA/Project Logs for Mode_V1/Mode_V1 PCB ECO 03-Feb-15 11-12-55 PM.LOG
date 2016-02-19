@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetP1_2 Pin=S1-1
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 2 New DesignItemId=Header 3
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X2 New Footprint=HDR1X3
+Change Component Comment : Designator=P1 Old Comment=Us_Ard New Comment=Header 3
+Change Component Comment : Designator=P2 Old Comment=Us_SSC New Comment=Usart SSC
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=S1-3
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=S1-1
+Added Net: Name=NetP1_3
+Added Room: Name=Mode_V1

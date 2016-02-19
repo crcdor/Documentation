@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetHeader.A_17 Pin=OCR1A-3
+Removed Pin From Net: NetName=NetHeader.A_16 Pin=OCR1B-3
+Removed Pin From Net: NetName=NetHeader.A_21 Pin=USART0-2
+Removed Pin From Net: NetName=NetHeader.A_22 Pin=USART0-3
+Added Pin To Net: NetName=NetHeader.A_21 Pin=OCR1A-3
+Added Pin To Net: NetName=NetHeader.A_22 Pin=OCR1B-3
+Added Pin To Net: NetName=NetHeader.A_17 Pin=USART0-2
+Added Pin To Net: NetName=NetHeader.A_16 Pin=USART0-3

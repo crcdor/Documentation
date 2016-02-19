@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=U? Old Footprint=DIP-8 New Footprint=My_DIP8
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X5)
+Added Component: Designator=P3(HDR1X6)
+Added Pin To Net: NetName=GND Pin=P3-6
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=P3-5
+Added Net: Name=VCC
+Added Member To Class: ClassName=Mode_V1 Member=Component P1 Usart M
+Added Member To Class: ClassName=Mode_V1 Member=Component P2 Usart SSC
+Added Member To Class: ClassName=Mode_V1 Member=Component P3 Mode
+Added Room: Name=Mode_V1

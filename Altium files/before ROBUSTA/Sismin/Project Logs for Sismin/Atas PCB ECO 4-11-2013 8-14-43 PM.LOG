@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=Net22pF1_1 Pin=22pF-1
+Removed Pin From Net: NetName=Net22pF_2 Pin=22pF-2
+Removed Pin From Net: NetName=NetHeader.A_17 Pin=U1-2
+Removed Pin From Net: NetName=NetHeader.A_16 Pin=U1-3
+Removed Pin From Net: NetName=NetHeader.A_22 Pin=U1-5
+Removed Pin From Net: NetName=NetHeader.A_21 Pin=U1-6
+Removed Pin From Net: NetName=NetHeader.A_11 Pin=U1-25
+Removed Pin From Net: NetName=NetHeader.A_10 Pin=U1-26
+Added Pin To Net: NetName=Net22pF1_1 Pin=22pF-1
+Added Pin To Net: NetName=Net22pF_2 Pin=22pF-2
+Added Pin To Net: NetName=NetHeader.A_22 Pin=U1-2
+Added Pin To Net: NetName=NetHeader.A_21 Pin=U1-3
+Added Pin To Net: NetName=NetHeader.A_11 Pin=U1-6
+Added Pin To Net: NetName=NetHeader.A_10 Pin=U1-7
+Added Pin To Net: NetName=NetHeader.A_17 Pin=U1-24
+Added Pin To Net: NetName=NetHeader.A_16 Pin=U1-25

@@ -1,0 +1,82 @@
+Added Component: Designator=LED1(My_LED3MM)
+Added Component: Designator=LED2(My_LED3MM)
+Added Component: Designator=LED3(My_LED3MM)
+Added Component: Designator=LED4(My_LED3MM)
+Added Component: Designator=LED5(My_LED3MM)
+Added Component: Designator=P1(HDR1X7H)
+Added Component: Designator=PHO1(PIN2)
+Added Component: Designator=PHO2(PIN2)
+Added Component: Designator=PHO3(PIN2)
+Added Component: Designator=PHO4(PIN2)
+Added Component: Designator=PHO5(PIN2)
+Added Component: Designator=R11(My_axial-0.4)
+Added Component: Designator=R12(My_axial-0.4)
+Added Component: Designator=R21(My_axial-0.4)
+Added Component: Designator=R22(My_axial-0.4)
+Added Component: Designator=R31(My_axial-0.4)
+Added Component: Designator=R32(My_axial-0.4)
+Added Component: Designator=R41(My_axial-0.4)
+Added Component: Designator=R42(My_axial-0.4)
+Added Component: Designator=R51(My_axial-0.4)
+Added Component: Designator=R52(My_axial-0.4)
+Added Pin To Net: NetName=GND Pin=LED1-K
+Added Pin To Net: NetName=GND Pin=LED2-K
+Added Pin To Net: NetName=GND Pin=LED3-K
+Added Pin To Net: NetName=GND Pin=LED4-K
+Added Pin To Net: NetName=GND Pin=LED5-K
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=PHO1-2
+Added Pin To Net: NetName=GND Pin=PHO2-2
+Added Pin To Net: NetName=GND Pin=PHO3-2
+Added Pin To Net: NetName=GND Pin=PHO4-2
+Added Pin To Net: NetName=GND Pin=PHO5-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLED1_A Pin=LED1-A
+Added Pin To Net: NetName=NetLED1_A Pin=R11-2
+Added Net: Name=NetLED1_A
+Added Pin To Net: NetName=NetLED2_A Pin=LED2-A
+Added Pin To Net: NetName=NetLED2_A Pin=R21-2
+Added Net: Name=NetLED2_A
+Added Pin To Net: NetName=NetLED3_A Pin=LED3-A
+Added Pin To Net: NetName=NetLED3_A Pin=R31-2
+Added Net: Name=NetLED3_A
+Added Pin To Net: NetName=NetLED4_A Pin=LED4-A
+Added Pin To Net: NetName=NetLED4_A Pin=R41-2
+Added Net: Name=NetLED4_A
+Added Pin To Net: NetName=NetLED5_A Pin=LED5-A
+Added Pin To Net: NetName=NetLED5_A Pin=R51-2
+Added Net: Name=NetLED5_A
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_3 Pin=PHO1-1
+Added Pin To Net: NetName=NetP1_3 Pin=R12-2
+Added Net: Name=NetP1_3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=PHO2-1
+Added Pin To Net: NetName=NetP1_4 Pin=R22-2
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP1_5 Pin=P1-5
+Added Pin To Net: NetName=NetP1_5 Pin=PHO3-1
+Added Pin To Net: NetName=NetP1_5 Pin=R32-2
+Added Net: Name=NetP1_5
+Added Pin To Net: NetName=NetP1_6 Pin=P1-6
+Added Pin To Net: NetName=NetP1_6 Pin=PHO4-1
+Added Pin To Net: NetName=NetP1_6 Pin=R42-2
+Added Net: Name=NetP1_6
+Added Pin To Net: NetName=NetP1_7 Pin=P1-7
+Added Pin To Net: NetName=NetP1_7 Pin=PHO5-1
+Added Pin To Net: NetName=NetP1_7 Pin=R52-2
+Added Net: Name=NetP1_7
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=R11-1
+Added Pin To Net: NetName=VCC Pin=R12-1
+Added Pin To Net: NetName=VCC Pin=R21-1
+Added Pin To Net: NetName=VCC Pin=R22-1
+Added Pin To Net: NetName=VCC Pin=R31-1
+Added Pin To Net: NetName=VCC Pin=R32-1
+Added Pin To Net: NetName=VCC Pin=R41-1
+Added Pin To Net: NetName=VCC Pin=R42-1
+Added Pin To Net: NetName=VCC Pin=R51-1
+Added Pin To Net: NetName=VCC Pin=R52-1
+Added Net: Name=VCC
+Added Class: Name=line sensor (5)
+Added Room: Name=line sensor (5)

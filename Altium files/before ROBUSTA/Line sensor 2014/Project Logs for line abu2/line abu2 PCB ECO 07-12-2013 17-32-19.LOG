@@ -1,0 +1,96 @@
+Added Component: Designator=D1(My_LED3MM)
+Added Component: Designator=D2(My_LED3MM)
+Added Component: Designator=D3(My_LED3MM)
+Added Component: Designator=D4(My_LED3MM)
+Added Component: Designator=D5(My_LED3MM)
+Added Component: Designator=Header 7(HDR1X7H)
+Added Component: Designator=P1(PIN2)
+Added Component: Designator=P2(PIN2)
+Added Component: Designator=P3(PIN2)
+Added Component: Designator=P4(PIN2)
+Added Component: Designator=P5(PIN2)
+Added Component: Designator=R1(My_axial-0.4)
+Added Component: Designator=R2(My_axial-0.4)
+Added Component: Designator=R3(My_axial-0.4)
+Added Component: Designator=R4(My_axial-0.4)
+Added Component: Designator=R5(My_axial-0.4)
+Added Component: Designator=Rp1(My_axial-0.4)
+Added Component: Designator=Rp2(My_axial-0.4)
+Added Component: Designator=Rp3(My_axial-0.4)
+Added Component: Designator=Rp4(My_axial-0.4)
+Added Component: Designator=Rp5(My_axial-0.4)
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=GND Pin=D2-K
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=GND Pin=D3-K
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=GND Pin=D4-K
+Added Pin To Net: NetName=GND Pin=D5-K
+Added Pin To Net: NetName=GND Pin=Header 7-1
+Added Pin To Net: NetName=VCC Pin=Header 7-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=NetD1_A Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=NetD2_A Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=NetD3_A Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=NetD4_A Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=Rp1-1
+Added Pin To Net: NetName=VCC Pin=Rp2-1
+Added Pin To Net: NetName=VCC Pin=Rp3-1
+Added Pin To Net: NetName=VCC Pin=Rp4-1
+Added Pin To Net: NetName=VCC Pin=Rp5-1
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R5-2
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetHeader 7_3 Pin=Header 7-3
+Added Pin To Net: NetName=NetHeader 7_3 Pin=P1-2
+Added Pin To Net: NetName=NetHeader 7_3 Pin=Rp1-2
+Added Net: Name=NetHeader 7_3
+Added Pin To Net: NetName=NetHeader 7_4 Pin=Header 7-4
+Added Pin To Net: NetName=NetHeader 7_4 Pin=P2-2
+Added Pin To Net: NetName=NetHeader 7_4 Pin=Rp2-2
+Added Net: Name=NetHeader 7_4
+Added Pin To Net: NetName=NetHeader 7_5 Pin=Header 7-5
+Added Pin To Net: NetName=NetHeader 7_5 Pin=P3-2
+Added Pin To Net: NetName=NetHeader 7_5 Pin=Rp3-2
+Added Net: Name=NetHeader 7_5
+Added Pin To Net: NetName=NetHeader 7_6 Pin=Header 7-6
+Added Pin To Net: NetName=NetHeader 7_6 Pin=P4-2
+Added Pin To Net: NetName=NetHeader 7_6 Pin=Rp4-2
+Added Net: Name=NetHeader 7_6
+Added Pin To Net: NetName=NetHeader 7_7 Pin=Header 7-7
+Added Pin To Net: NetName=NetHeader 7_7 Pin=P5-2
+Added Pin To Net: NetName=NetHeader 7_7 Pin=Rp5-2
+Added Net: Name=NetHeader 7_7
+Added Member To Class: ClassName=line abu2 Member=Component D1 LED
+Added Member To Class: ClassName=line abu2 Member=Component D2 LED
+Added Member To Class: ClassName=line abu2 Member=Component D3 LED
+Added Member To Class: ClassName=line abu2 Member=Component D4 LED
+Added Member To Class: ClassName=line abu2 Member=Component D5 LED
+Added Member To Class: ClassName=line abu2 Member=Component Header 7 Header 7H
+Added Member To Class: ClassName=line abu2 Member=Component P1 Photo Sen
+Added Member To Class: ClassName=line abu2 Member=Component P2 Photo Sen
+Added Member To Class: ClassName=line abu2 Member=Component P3 Photo Sen
+Added Member To Class: ClassName=line abu2 Member=Component P4 Photo Sen
+Added Member To Class: ClassName=line abu2 Member=Component P5 Photo Sen
+Added Member To Class: ClassName=line abu2 Member=Component R1 1k
+Added Member To Class: ClassName=line abu2 Member=Component R2 1k
+Added Member To Class: ClassName=line abu2 Member=Component R3 1k
+Added Member To Class: ClassName=line abu2 Member=Component R4 1k
+Added Member To Class: ClassName=line abu2 Member=Component R5 1k
+Added Member To Class: ClassName=line abu2 Member=Component Rp1 1k
+Added Member To Class: ClassName=line abu2 Member=Component Rp2 1k
+Added Member To Class: ClassName=line abu2 Member=Component Rp3 1k
+Added Member To Class: ClassName=line abu2 Member=Component Rp4 1k
+Added Member To Class: ClassName=line abu2 Member=Component Rp5 1k
+Added Room: Name=line abu2

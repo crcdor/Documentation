@@ -1,0 +1,66 @@
+Added Component: Designator=Header.A(HDR2X10_CEN)
+Added Component: Designator=Header.B(HDR2X10_CEN)
+Added Pin To Net: NetName=NetHeader.A_1 Pin=Header.A-1
+Added Net: Name=NetHeader.A_1
+Added Pin To Net: NetName=NetHeader.A_2 Pin=Header.A-2
+Added Net: Name=NetHeader.A_2
+Added Pin To Net: NetName=NetHeader.A_3 Pin=Header.A-3
+Added Net: Name=NetHeader.A_3
+Added Pin To Net: NetName=NetHeader.A_4 Pin=Header.A-4
+Added Net: Name=NetHeader.A_4
+Added Pin To Net: NetName=NetHeader.A_5 Pin=Header.A-5
+Added Net: Name=NetHeader.A_5
+Added Pin To Net: NetName=NetHeader.A_6 Pin=Header.A-6
+Added Net: Name=NetHeader.A_6
+Added Pin To Net: NetName=NetHeader.A_7 Pin=Header.A-7
+Added Net: Name=NetHeader.A_7
+Added Pin To Net: NetName=NetHeader.A_8 Pin=Header.A-8
+Added Net: Name=NetHeader.A_8
+Added Pin To Net: NetName=NetHeader.A_9 Pin=Header.A-9
+Added Net: Name=NetHeader.A_9
+Added Pin To Net: NetName=NetHeader.A_10 Pin=Header.A-10
+Added Net: Name=NetHeader.A_10
+Added Pin To Net: NetName=NetHeader.A_11 Pin=Header.A-11
+Added Net: Name=NetHeader.A_11
+Added Pin To Net: NetName=NetHeader.A_12 Pin=Header.A-12
+Added Net: Name=NetHeader.A_12
+Added Pin To Net: NetName=NetHeader.A_13 Pin=Header.A-13
+Added Net: Name=NetHeader.A_13
+Added Pin To Net: NetName=NetHeader.A_14 Pin=Header.A-14
+Added Net: Name=NetHeader.A_14
+Added Pin To Net: NetName=NetHeader.A_15 Pin=Header.A-15
+Added Net: Name=NetHeader.A_15
+Added Pin To Net: NetName=NetHeader.A_16 Pin=Header.A-16
+Added Net: Name=NetHeader.A_16
+Added Pin To Net: NetName=NetHeader.A_17 Pin=Header.A-17
+Added Net: Name=NetHeader.A_17
+Added Pin To Net: NetName=NetHeader.A_18 Pin=Header.A-18
+Added Net: Name=NetHeader.A_18
+Added Pin To Net: NetName=NetHeader.A_19 Pin=Header.A-19
+Added Net: Name=NetHeader.A_19
+Added Pin To Net: NetName=NetHeader.A_20 Pin=Header.A-20
+Added Net: Name=NetHeader.A_20
+Added Net: Name=NetU1_53
+Added Net: Name=NetU1_54
+Added Net: Name=NetU1_55
+Added Net: Name=NetU1_57
+Added Net: Name=NetU1_58
+Added Net: Name=NetU1_59
+Added Net: Name=NetU1_60
+Added Net: Name=NetU1_63
+Added Net: Name=NetU1_64
+Added Net: Name=NetU1_76
+Added Net: Name=NetU1_77
+Added Net: Name=NetU1_78
+Added Net: Name=NetU1_90
+Added Net: Name=NetU1_91
+Added Net: Name=NetU1_92
+Added Net: Name=NetU1_93
+Added Net: Name=NetU1_94
+Added Net: Name=NetU1_95
+Added Net: Name=NetU1_96
+Added Net: Name=NetU1_97
+Added Net: Name=NetU1_98
+Added Net: Name=NetU1_100
+Added Class: Name=Atas
+Added Room: Name=Atas
